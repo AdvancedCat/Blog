@@ -1,0 +1,2 @@
+# Blog
+The static blog.
